@@ -1,0 +1,48 @@
+#glavniDiv {
+  height: 100vh;
+  width: 100vw;
+  background: url("./images/POZADINA1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#prikazOpcija {
+  background-color: rgba(210, 105, 30, 0.7);
+  padding: 20px;
+  border-radius: 20px;
+  color: wheat !important;
+}
+
+.opcija {
+  background-color: rgb(11, 66, 11, 0.4) !important;
+  border-radius: 30px !important;
+  color: wheat !important;
+  font-size: 2rem !important;
+}
+.opcija:hover {
+  background-color: rgb(11, 66, 11, 1) !important;
+}
+
+/* https://stackoverflow.com/questions/60695775/how-can-i-make-rows-and-columns-of-alternating-image-text-text-image-in-c */
+.container .row:nth-child(2n + 1) {
+  flex-direction: row-reverse;
+}
+
+.containerOdeca,
+.container {
+  margin-top: 80px !important;
+}
+#accordion {
+  position: fixed !important;
+  top: 0 !important;
+  width: 100vw;
+}
+
+#o_dizajneru {
+  height: 106px;
+}
+
+.dizajner {
+  border-bottom: 1px solid black;
+  min-height: 25vh;
+}
