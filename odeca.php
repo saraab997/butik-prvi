@@ -30,10 +30,10 @@
                         Pretrazi odecu
                     </button>
                     <a href="http://localhost/butik/" class="btn btn-link">
-                        Na pocetnu
+                        Pocetna
                     </a>
                     <a href="http://localhost/butik/dizajneri.php" class="btn btn-link">
-                        Na dizajnere
+                        Dizajneri
                     </a>
                 </h5>
             </div>

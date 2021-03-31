@@ -26,10 +26,10 @@
                         Dodaj novog dizajnera
                     </button>
                     <a href="http://localhost/butik/" class="btn btn-link">
-                        Na pocetnu
+                        Pocetna
                     </a>
                     <a href="http://localhost/butik/odeca.php" class="btn btn-link">
-                        Na odecu
+                        Odeca
                     </a>
                 </h5>
             </div>
